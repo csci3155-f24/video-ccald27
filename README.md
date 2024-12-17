@@ -27,5 +27,5 @@ N/A
 
 - YouTube: https://youtu.be/DWFy38AhNWo
 - Script: [script.pdf](script.pdf).
-- Recording: [recording.mov](recording.mov).
+- Recording: [recording.mp4](recording.mp4).
 - Slides:[slides.pdf](slides.pdf)
